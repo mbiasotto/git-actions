@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.host }}
         username: ${{ secrets.user }}
         password: ${{ secrets.password }}
-        server-dir: public_html/tests/git-actions
+        server-dir: public_html/tests/git-actions/
